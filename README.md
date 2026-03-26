@@ -3,4 +3,4 @@
 Loyihada matn uzunligini, 
 musbat sonlarni aniqlash,
 parol tekshirish,
-sonni tekshirish va teskari matn 
+sonni tekshirish va teskari matn topshiriqlarini bajardim
