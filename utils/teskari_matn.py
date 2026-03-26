@@ -1,0 +1,5 @@
+print("teskari_matn")
+def teskari(matn):
+ return matn[::-1]
+if __name__=="__main__":
+    print(teskari("salom"))

@@ -1,0 +1,31 @@
+# Python bytecode fayllari
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment (sizning .venv)
+.venv/
+env/
+venv/
+
+# Django fayllari
+*.sqlite3
+*.log
+db.sqlite3
+
+# PyCharm konfiguratsiya fayllari
+.idea/
+*.iml
+
+# MacOS fayllari (agar Mac ishlatsangiz)
+.DS_Store
+
+# Windows fayllari
+Thumbs.db
+*.bak
+
+# Gitni o‘zi
+.gitignore
+
+# VSCode konfiguratsiyasi (agar ishlatilsa)
+.vscode/
